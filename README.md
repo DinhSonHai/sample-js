@@ -1,0 +1,1 @@
+Sample project describing self-study process javascript
